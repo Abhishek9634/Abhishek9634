@@ -7,12 +7,6 @@ Expertise in Swift and familiar with declarative/Hybrid frameworks like SwiftUI,
 
 **Medium:** [Profile](https://medium.com/@abhishekthapliyal)
 
-## Connect with me
-
-**Email:** abhishekthapliyal7579@gmail.com
-
-**Contact No. :** +91-7409097883
-
 **Social:** [LinkedIn](https://www.linkedin.com/in/abhishek-t-6887a08a), [Github](https://github.com/Abhishek9634), [Twitter](https://twitter.com/abhishek9A), [Medium](https://medium.com/@abhishekthapliyal), [Stackoverflow](https://stackoverflow.com/users/5589073/abhishek-thapliyal) and [Instagram](https://www.instagram.com/abhishek.thapliyal01)
 
 ## Technical Stack
