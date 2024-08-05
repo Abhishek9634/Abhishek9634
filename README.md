@@ -1,16 +1,27 @@
-## Hi there 👋
+# Abhishek Thapliyal
 
-<!--
-**Abhishek9634/Abhishek9634** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+8+ years of experience as an iOS Developer.
+Expertise in Swift and familiar with declarative/Hybrid frameworks like SwiftUI, React-Native and Flutter
 
-Here are some ideas to get you started:
+## Blogs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Medium:** [Profile](https://medium.com/@abhishekthapliyal)
+
+## Connect with me
+
+**Email:** abhishekthapliyal7579@gmail.com
+
+**Contact No. :** +91-7409097883
+
+**Social:** [LinkedIn](https://www.linkedin.com/in/abhishek-t-6887a08a), [Github](https://github.com/Abhishek9634), [Twitter](https://twitter.com/abhishek9A), [Medium](https://medium.com/@abhishekthapliyal), [Stackoverflow](https://stackoverflow.com/users/5589073/abhishek-thapliyal) and [Instagram](https://www.instagram.com/abhishek.thapliyal01)
+
+## Technical Stack
+
+**Languages:** Swift, JS, Dart
+
+**Frameworks:** Alamofire, Swifty JSON, ReactiveSwift, Firebase, Twilio, MQTT, GraphQL,
+React Native, Flutter, SPM
+
+**Tools:** XCode, VS Code, Sketch, Figma, SourceTree, JIRA, Linear, PostMan, Insomania
+
+**CI/CD:** Fastlane, Github Actions
