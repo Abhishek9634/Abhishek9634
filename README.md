@@ -11,12 +11,21 @@ Mobile Developer with over 9 years of experience in designing and building scala
 ## Technical Stack
 
 **Languages:** Swift, JavaScript, Dart, Objective-C
+
 **Architectures:** MVC, MVVM, BLOC
+
 **Agile Development:** JIRA, Scrum, Kanban
+
 **Frameworks:** SPM, Cocoapods, Flutter, React-Native, Firebase, Core Data, GraphQL, Twilio, Stripe, MQTT
+
 **CI/CD:** Fastlane, Github Actions, Ruby
+
 **AI/Tooling:** Github Copilot, ChatGPT, Gemini used for debugging, unit testing and documentation support
+
 **Developer Tools:** Xcode, VS Code, Cursor, Postman, Insomnia
+
 **Designer Tools:** Sketch, Figma
+
 **Testing:** XCTest, Swift-Testing
+
 **Full Stack Development:** Node JS, Flutter Web, JavaScript, CSS, Firebase Hosting, Firebase Functions, Razorpay, GoDaddy, Scripting, Shiprocket
